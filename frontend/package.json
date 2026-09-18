@@ -1,0 +1,19 @@
+{
+  "name": "bcrm-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "BCRM 客户关系网络 · 11 套风格交互式演示（Vue 3 + Vite）",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^5.4.11"
+  }
+}

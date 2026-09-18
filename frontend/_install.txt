@@ -1,0 +1,7 @@
+STATUS=0
+SIGNAL=null
+--- STDOUT ---
+
+added 31 packages in 44s
+
+--- STDERR ---

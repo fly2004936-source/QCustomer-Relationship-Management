@@ -1,0 +1,8 @@
+客户管理系统后端已启动
+  模式    : Web 版（接口 + 前端页面，同一进程托管）
+  界面    : http://127.0.0.1:8787/
+  静态产物: C:\Users\JINGYIFEI\Desktop\源码\Application\Web版\web
+  接口    : http://127.0.0.1:8787/api/v1
+  数据库  : C:\Users\JINGYIFEI\Desktop\源码\Application\Web版\data\crm.db
+  表白名单: 62 张
+  健康检查: http://127.0.0.1:8787/api/v1/meta/health
